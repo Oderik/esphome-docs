@@ -115,6 +115,10 @@ Configuration variables:
 
     See :ref:`light-addressable_set_action` for that.
 
+.. note::
+
+    Some of the underlying light's configuration details like `color_correct` are bypassed by the partition.
+
 See Also
 --------
 
